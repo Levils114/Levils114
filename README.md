@@ -1,6 +1,6 @@
-<p align="center">
-    <img src="https://github.com/Levils114/Levils114/blob/main/readme-gif.gif"/>
-</p>
+<div align="center">
+    <img src="https://github.com/Levils114/Levils114/blob/main/readme-gif.gif" style="max-width:100%;width: 40%;"/>
+</div>
 
 <h3 align="center">Hi 👋🏼, my name is Levi Siebra and I'm an 18 years old Brazilian developer 🇧🇷.</h3>
 <hr width="100%"/>
