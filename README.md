@@ -1,16 +1,19 @@
-### Hi there 👋
+<p align="center">
+    <img src="https://github.com/Levils114/Levils114/blob/main/readme-gif.gif"/>
+</p>
 
-<!--
-**Levils114/Levils114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Hi 👋🏼, my name is Levi Siebra and I'm an 18 years old Brazilian developer 🇧🇷.</h3>
+<hr width="100%"/>
+I'm a front-end developer and full-stack student. 
+Currently I'm working in [7Cantos](https://www.7cantos.com/) company and learning everyday how to make tecnology change lives.
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Levils114&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>Contact me:</h4>
+- <a align="center" href="https://www.linkedin.com/in/levi-siebra/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levi-siebra/"/>
+  </a>
+- <a href="mailto:levils114@gmail.com">
+    <img src="https://img.shields.io/badge/-levils114@gmail.com-red?style=flat-square&logo=levils114@gmail.comlogoColor=white&link=levils114@gmail.com" />
+  </a>
+
