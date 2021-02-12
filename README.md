@@ -6,7 +6,7 @@
 <hr width="100%"/>
 
 <p>I'm a front-end developer and full-stack student.</p> 
-<p>Currently I'm working in <a href="https://www.7cantos.com/">7Cantos</a> and <a href="https://www.paguru.com.br/">Paguru</a> company and learning everyday how to use tecnology to change lifes.</p>
+<p>Currently I'm working in <a href="https://www.7cantos.com/">7Cantos</a> and <a href="https://www.paguru.com.br/">Paguru</a> company, and learning everyday how to use tecnology to change lifes.</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Levils114&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
