@@ -2,7 +2,7 @@
     <img src="https://github.com/Levils114/Levils114/blob/main/readme-gif.gif" width="40%"/>
 </div>
 
-<h3 align="center">Hi 👋🏼, my name is Levi Siebra and I'm an 18 years old Brazilian developer 🇧🇷.</h3>
+<h3 align="center">Hi 👋🏼, my name is Levi Siebra and I'm an 19 years old Brazilian developer 🇧🇷.</h3>
 <hr width="100%"/>
 
 <p>I'm a front-end developer and full-stack student.</p> 
