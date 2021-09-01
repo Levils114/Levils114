@@ -5,7 +5,7 @@
 <h3 align="center">Hi 👋🏼, my name is Levi Siebra and I'm a 19 years old Brazilian developer 🇧🇷.</h3>
 <hr width="100%"/>
 
-<p>I'm a front-end developer and full-stack student.</p> 
+<p>I'm a mobile developer and full-stack student.</p> 
 <p>Currently I'm working in <a href="https://thepilgrim.com.br/">The Pilgrim</a> and <a href="https://www.paguru.com.br/">Paguru</a> company, and learning everyday how to use tecnology to change lifes.</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Levils114&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
