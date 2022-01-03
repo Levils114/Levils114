@@ -8,7 +8,9 @@
 <p>I'm a mobile developer and full-stack student.</p> 
 <p>Currently I'm working in <a href="https://thepilgrim.com.br/">The Pilgrim</a> company, and learning everyday how to use tecnology to change lifes.</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Levils114&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github.com/Levils114/Levils114/blob/main/devcard.svg" width="350" alt="Levi Siebra's Dev Card"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Levils114&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 <h4>Contact me:</h4>
   <a align="center" href="https://www.linkedin.com/in/levi-siebra/">
