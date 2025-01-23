@@ -8,7 +8,7 @@
 <p>I'm a mobile developer and full-stack student.</p> 
 <p>Currently I'm working in <a href="https://invillia.com/global-growth-framework/">Invillia</a> company, and learning everyday how to use tecnology to change lifes.</p>
 
-<a href="https://app.daily.dev/levils114"><img src="https://api.daily.dev/devcards/v2/5N4Tvz1aH.png?r=kq1&type=default" width="356" alt="Levi Siebra's Dev Card"/></a>
+<a href="https://app.daily.dev/levils114"><img src="./devcard.png" width="356" alt="Levi Siebra's Dev Card"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Levils114&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
